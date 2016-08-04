@@ -1,0 +1,25 @@
+{
+  "name": "pusoy-dos-telegram",
+  "version": "1.0.0",
+  "description": "Pusoy Dos bot",
+  "main": "pusoy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-ggs/pusoy-dos-telegram.git"
+  },
+  "keywords": [
+    "pusoy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-ggs/pusoy-dos-telegram/issues"
+  },
+  "homepage": "https://github.com/b-ggs/pusoy-dos-telegram#readme",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.12"
+  }
+}
